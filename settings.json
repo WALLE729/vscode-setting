@@ -1,0 +1,21 @@
+{
+  "show spaces": true,
+  "editor.minimap.enabled": false,
+  "editor.lineHeight": 25,
+  "editor.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.8,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "emmet.triggerExpansionOnTab": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  // 一个制表符等于的空格数
+  "editor.tabSize": 2,
+  // 自带的字体挺好的,不过个人更喜欢Monaco字体
+  "editor.fontFamily": "Monaco"
+}
